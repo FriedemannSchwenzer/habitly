@@ -36,7 +36,7 @@ Main dependencies include:
 ### 1. Clone the Repository
 
 ```
-git clone https://github.com/your-username/habitly.git
+git clone https://github.com/FriedemannSchwenzer/habitly.git
 cd habitly
 
 ```

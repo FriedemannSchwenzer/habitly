@@ -1,0 +1,15 @@
+# ---------------------
+# Standard Libraries (built-in, no need to install)
+# ---------------------
+# os
+# sys
+# time
+# random
+# collections
+# datetime
+
+# ---------------------
+# Third-Party Packages (install with pip)
+# ---------------------
+questionary
+pytest
